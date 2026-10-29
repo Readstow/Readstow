@@ -2,7 +2,7 @@
 
 How to use every part of Readstow, with pictures of the places that are easy to miss.
 
-Readstow is a read-it-later, RSS feed and newsletter reading app by DexWorks Pty Ltd. Website: [readstow.com](https://readstow.com). The same guide is on the website at [readstow.com/guide](https://readstow.com/guide).
+Readstow is a read-it-later, RSS feed and newsletter reading app. Website: [readstow.com](https://readstow.com). The same guide is on the website at [readstow.com/guide](https://readstow.com/guide).
 
 ## Contents
 
@@ -19,6 +19,3 @@ Readstow is a read-it-later, RSS feed and newsletter reading app by DexWorks Pty
 11. [Account and plans](account-and-plans.md): Your account, password and devices, the Free and Pro plans, and deleting your account.
 12. [FAQ](faq.md): Quick answers to the questions people ask most about Readstow.
 
----
-
-© 2026 DexWorks Pty Ltd. Readstow and the Readstow logo are trade marks of DexWorks Pty Ltd.
